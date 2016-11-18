@@ -135,6 +135,7 @@ $this->load_header();
       <h4>Dutch</h4>
       <p>
         <a href="http://astrofloyd.org/">AstroFloyd</a>,
+        <a href="https://www.transifex.com/user/profile/Dragnadh/">dragnadh</a>,
         Johan Vervloet, and
         Tim Speetjens.
       </p>
@@ -203,6 +204,7 @@ $this->load_header();
 
       <h4>Hebrew</h4>
       <p>
+        <a href="https://www.transifex.com/user/profile/nbrandel/">Nate Brandel</a>,
         <a href="https://www.transifex.com/user/profile/Yaron/">Yaron Shahrabani</a>
         and proofreading by Oren B.
       </p>
@@ -249,6 +251,16 @@ $this->load_header();
         <a href="https://www.transifex.com/user/profile/Alexandros.Mouhtsis/">Alexandros Mouhtsis</a>.
       </p>
 
+      <h4>Malay</h4>
+      <p>
+        <a href="https://www.transifex.com/user/profile/abuyop/">abuyop</a>.
+      </p>
+
+      <h4>Persian</h4>
+      <p>
+        <a href="https://www.transifex.com/user/profile/danialbehzadi/">Danial Behzadi</a>.
+      </p>
+
       <h4>Polish</h4>
       <p>
         <a href="https://www.transifex.com/user/profile/penknife/">Bogusław B.</a> and
@@ -271,8 +283,19 @@ $this->load_header();
       <p>
         <a href="https://www.transifex.com/user/profile/Alissa/">Alissa</a>,
         <a href="https://www.transifex.com/user/profile/Antic1tizen/">Antic1tizen</a>,
+        <a href="https://www.transifex.com/user/profile/crevice/">Anton Shcherbina</a>,
         <a href="https://www.transifex.com/user/profile/player1_76/">Фёдор Ходьков</a>, and
         <a href="https://www.transifex.com/user/profile/vst/">V'yacheslav Stetskevych</a>.
+      </p>
+
+      <h4>Serbian</h4>
+      <p>
+        <a href="https://www.transifex.com/user/profile/alert.aleksandar00/">Alert Aleksandar</a>.
+      </p>
+
+      <h4>Sinhala</h4>
+      <p>
+        <a href="https://www.transifex.com/user/profile/0xEDD1E/">Eddie Dinkz</a>.
       </p>
 
       <h4>Spanish</h4>
@@ -296,6 +319,7 @@ $this->load_header();
         <a href="https://www.transifex.com/user/profile/basarancaner/">Caner Başaran</a>,
         <a href="https://www.transifex.com/user/profile/drstrangelove/">drstrangelove</a>,
         <a href="https://www.transifex.com/user/profile/fehmican/">Fehmican Imirgi</a>,
+        <a href="https://www.transifex.com/user/profile/muratservan/">Murat Servan Kahraman</a>,
         <a href="https://www.transifex.com/user/profile/necdetyucel/">Necdet Yücel</a>, and
         <a href="https://www.transifex.com/user/profile/zeugma/">zeugma</a>.
       </p>
@@ -311,6 +335,11 @@ $this->load_header();
         Clytie Siddall from the <a href="http://vnoss.net/dokuwiki/doku.php?id=projects:l10n">Vietnamese Free Software Translation Team</a>,
         Minh Ngoc Le, and
         <a href="https://www.transifex.com/user/profile/ppanhh/">Phan Anh</a>.
+      </p>
+
+      <h4>Welsh</h4>
+      <p>
+        <a href="https://www.transifex.com/user/profile/agored/">Agored Open</a>.
       </p>
 
       <h2>Inspiration &amp; reading</h2>
